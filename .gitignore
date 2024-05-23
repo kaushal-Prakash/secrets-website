@@ -1,0 +1,17 @@
+# Ignore all files with the extension .txt
+*.txt
+
+# Ignore all files in the node_modules directory
+node_modules/
+
+# Ignore all files with the extension .log
+*.log
+
+# Ignore all files in the .sass-cache directory
+.sass-cache/
+
+# Ignore all files with the extension .env
+.env
+
+# Ignore all files in the .DS_store directory
+.DS_store
